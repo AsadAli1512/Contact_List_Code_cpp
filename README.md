@@ -1,4 +1,4 @@
 # Contact_List_Code_cpp
 Author: Asad Ali
 <br>
-Here is the code in c++, which has functions to handle Contact List such as  to add contact, to delete contact and to search contact.
+Here is the simple code in c++, which has functions to handle Contact List such as  to add update contact, to search contact and to delete the contact.
